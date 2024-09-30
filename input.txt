@@ -1,0 +1,9 @@
+int var1 = 42;      
+String name = 'John Doe'; 
+
+char letter = 'A';   
+
+
+var2 = var1 + 10;    
+print(name);         
+a+b/c*123
